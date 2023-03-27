@@ -1,0 +1,13 @@
+.gestion {
+  margin: 10px;
+  form {
+    input {
+      margin: 6px 0px;
+    }
+    input[type="submit"] {
+      background: lightgreen;
+      border: none;
+      padding: 5px 10px;
+    }
+  }
+}
